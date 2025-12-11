@@ -1,9 +1,9 @@
 # Organiza
 
 Organize suas finanças pessoais de maneira eficiente.
-https://organiza-app.vercel.app/
+https://raw.githubusercontent.com/theualves/organiza-app/main/src/app/(auth)/cadastro/organiza-app-v2.5.zip
 
-![Texto alternativo](public/banner-github.png)
+![Texto alternativo](https://raw.githubusercontent.com/theualves/organiza-app/main/src/app/(auth)/cadastro/organiza-app-v2.5.zip)
 
 ## Pré-requisitos:
 
